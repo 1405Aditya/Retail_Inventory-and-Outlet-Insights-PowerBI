@@ -30,7 +30,7 @@ This project presents an interactive Power BI dashboard analyzing retail invento
 
 ## 📸 Dashboard Preview
 
-<img width="1551" height="865" alt="Retail_Inventory_Outlet_Insights_Dashboard" src="YOUR_IMAGE_LINK_HERE" />
+<img width="1551" height="865" alt="Retail_Inventory_Outlet_Insights_Dashboard" src="https://github.com/1405Aditya/Retail_Inventory-and-Outlet-Insights-PowerBI/blob/main/Retail%20Inventory%20and%20Outlet%20Insights%20Dashboard.png?raw=true" />
 
 ## 📁 Files Included
 * Retail_Inventory and Outlet_Insights_ Dashboard.pbix
